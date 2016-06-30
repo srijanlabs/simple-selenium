@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="371959" started-at="2016-04-29T08:14:50Z" finished-at="2016-04-29T08:21:02Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="371959" started-at="2016-04-29T08:14:50Z" finished-at="2016-04-29T08:21:02Z">
+      <class name="com.keyword.sample.KeyWordExecutionTest">
+        <test-method status="PASS" signature="test()[pri:0, instance:com.keyword.sample.KeyWordExecutionTest@40edec51]" name="test" duration-ms="371946" started-at="2016-04-29T13:44:50Z" finished-at="2016-04-29T13:51:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- com.keyword.sample.KeyWordExecutionTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
